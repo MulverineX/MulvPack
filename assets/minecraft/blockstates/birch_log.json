@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "axis=y":  [ { "model": "birch_log" },
+				{ "model": "birch_log_0" },
+				{ "model": "birch_log_1" },
+				{ "model": "birch_log_2" },
+				{ "model": "birch_log_3" },
+				{ "model": "birch_log_4" } ],
+        "axis=z":   [ { "model": "birch_log", "x": 90 },
+				{ "model": "birch_log_0", "x": 90 },
+				{ "model": "birch_log_1", "x": 90 },
+				{ "model": "birch_log_2", "x": 90 },
+				{ "model": "birch_log_3", "x": 90 },
+				{ "model": "birch_log_4", "x": 90 } ],
+        "axis=x":   [ { "model": "birch_log", "x": 90, "y": 90 },
+				{ "model": "birch_log_0", "x": 90, "y": 90 },
+				{ "model": "birch_log_1", "x": 90, "y": 90 },
+				{ "model": "birch_log_2", "x": 90, "y": 90 },
+				{ "model": "birch_log_3", "x": 90, "y": 90 },
+				{ "model": "birch_log_4", "x": 90, "y": 90 } ],
+        "axis=none": [ { "model": "birch_bark" },
+				{ "model": "birch_bark_0" },
+				{ "model": "birch_bark_1" },
+				{ "model": "birch_bark_2" },
+				{ "model": "birch_bark_3" },
+				{ "model": "birch_bark_4" } ]
+    }
+}

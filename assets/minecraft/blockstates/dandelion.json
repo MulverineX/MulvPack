@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "normal": [ { "model": "dandelion" },
+		{ "model": "dandelion_0" },
+		{ "model": "dandelion_1" },
+		{ "model": "dandelion_2" },
+		{ "model": "dandelion_3" },
+		{ "model": "dandelion_4" },
+		{ "model": "dandelion_5" },
+		{ "model": "dandelion_6" },
+		{ "model": "dandelion_7" },
+		{ "model": "dandelion_8" },
+		{ "model": "dandelion_9" },
+		{ "model": "dandelion_10" } ]
+    }
+}

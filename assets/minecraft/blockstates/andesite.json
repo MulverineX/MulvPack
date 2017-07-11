@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "normal": [ { "model": "andesite" },
+			{ "model": "andesite_0" },
+			{ "model": "andesite_1" },
+			{ "model": "andesite_2" },
+			{ "model": "andesite_3" },
+			{ "model": "andesite", "y": 180 },
+			{ "model": "andesite_0", "y": 180 },
+			{ "model": "andesite_1", "y": 180 },
+			{ "model": "andesite_2", "y": 180 },
+			{ "model": "andesite_3", "y": 180 },
+			{ "model": "andesite_mirrored" },
+			{ "model": "andesite_mirrored_0" },
+			{ "model": "andesite_mirrored_1" },
+			{ "model": "andesite_mirrored_2" },
+			{ "model": "andesite_mirrored_3" },
+			{ "model": "andesite_mirrored", "y": 180 },
+			{ "model": "andesite_mirrored_0", "y": 180 },
+			{ "model": "andesite_mirrored_1", "y": 180 },
+			{ "model": "andesite_mirrored_2", "y": 180 },
+			{ "model": "andesite_mirrored_3", "y": 180 } ]
+    }
+}

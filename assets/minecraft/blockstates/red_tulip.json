@@ -1,0 +1,25 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "red_tulip", "weight":4 },
+		{ "model": "red_tulip_0", "weight":4 },
+		{ "model": "red_tulip_1", "weight":4 },
+		{ "model": "red_tulip_2", "weight":4 },
+		{ "model": "red_tulip_3", "weight":4 },
+		{ "model": "red_tulip_4", "weight":4 },
+		{ "model": "red_tulip_5", "weight":4 },
+		{ "model": "red_tulip_6" },
+		{ "model": "red_tulip_7" },
+		{ "model": "red_tulip_8" },
+		{ "model": "red_tulip_9" },
+		{ "model": "red_tulip_10" },
+		{ "model": "red_tulip_11" },
+		{ "model": "red_tulip_12" },
+		{ "model": "red_tulip_13" },
+		{ "model": "red_tulip_14" },
+		{ "model": "red_tulip_15" },
+		{ "model": "red_tulip_16" },
+		{ "model": "red_tulip_17" } ]
+		
+    }
+}

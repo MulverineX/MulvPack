@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=default": [ { "model": "purpur_block" },
+			{ "model": "purpur_block_0" },
+			{ "model": "purpur_block_1" },
+			{ "model": "purpur_block_2" },
+			{ "model": "purpur_block_3" },
+			{ "model": "purpur_block_4" },
+			{ "model": "purpur_block_5" },
+			{ "model": "purpur_block_6" },
+			{ "model": "purpur_block_7" } ]
+    }
+}

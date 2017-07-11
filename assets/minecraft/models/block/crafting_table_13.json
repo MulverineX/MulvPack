@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/crafting_table_front_13",
+        "down": "blocks/planks_spruce",
+        "up": "blocks/crafting_table_top",
+        "north": "blocks/crafting_table_front_13",
+        "east": "blocks/crafting_table_side_13",
+        "south": "blocks/crafting_table_side_13",
+        "west": "blocks/crafting_table_front_13"
+    }
+}

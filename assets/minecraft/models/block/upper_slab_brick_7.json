@@ -1,0 +1,8 @@
+{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "blocks/brick_7",
+        "top": "blocks/brick_7",
+        "side": "blocks/brick_7"
+    }
+}

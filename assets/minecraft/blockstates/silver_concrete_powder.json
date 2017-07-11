@@ -1,0 +1,26 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "silver_concrete_powder" },
+			{ "model": "silver_concrete_powder_0" },
+			{ "model": "silver_concrete_powder_1" },
+			{ "model": "silver_concrete_powder_2" },
+			{ "model": "silver_concrete_powder_3" },
+            { "model": "silver_concrete_powder", "y": 90 },
+			{ "model": "silver_concrete_powder_0", "y": 90 },
+			{ "model": "silver_concrete_powder_1", "y": 90 },
+			{ "model": "silver_concrete_powder_2", "y": 90 },
+			{ "model": "silver_concrete_powder_3", "y": 90 },
+            { "model": "silver_concrete_powder", "y": 180 },
+			{ "model": "silver_concrete_powder_0", "y": 180 },
+			{ "model": "silver_concrete_powder_1", "y": 180 },
+			{ "model": "silver_concrete_powder_2", "y": 180 },
+			{ "model": "silver_concrete_powder_3", "y": 180 },
+            { "model": "silver_concrete_powder", "y": 270 },
+			{ "model": "silver_concrete_powder_0", "y": 270 },
+			{ "model": "silver_concrete_powder_1", "y": 270 },
+			{ "model": "silver_concrete_powder_2", "y": 270 },
+			{ "model": "silver_concrete_powder_3", "y": 270 }
+        ]
+    }
+}

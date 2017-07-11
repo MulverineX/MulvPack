@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [ { "model": "diorite" },
+				{ "model": "diorite_0" },
+				{ "model": "diorite", "y": 180 },
+				{ "model": "diorite_0", "y": 180 },
+				{ "model": "diorite_mirrored" },
+				{ "model": "diorite_mirrored_0" },
+				{ "model": "diorite_mirrored", "y": 180 },
+				{ "model": "diorite_mirrored_0", "y": 180 } ]
+    }
+}

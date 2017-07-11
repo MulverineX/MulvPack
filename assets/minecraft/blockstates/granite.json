@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [ { "model": "granite" },
+				{ "model": "granite_0" },
+				{ "model": "granite", "y": 180 },
+				{ "model": "granite_0", "y": 180 },
+				{ "model": "granite_mirrored" },
+				{ "model": "granite_mirrored_0" },
+				{ "model": "granite_mirrored", "y": 180 },
+				{ "model": "granite_mirrored_0", "y": 180 } ]
+    }
+}

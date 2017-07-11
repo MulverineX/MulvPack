@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "half=bottom,variant=default": [ { "model": "half_slab_purpur" },
+				{ "model": "half_slab_purpur_0" },
+				{ "model": "half_slab_purpur_1" },
+				{ "model": "half_slab_purpur_2" },
+				{ "model": "half_slab_purpur_3" },
+				{ "model": "half_slab_purpur_4" },
+				{ "model": "half_slab_purpur_5" },
+				{ "model": "half_slab_purpur_6" },
+				{ "model": "half_slab_purpur_7" } ],
+        "half=top,variant=default": [ { "model": "upper_slab_purpur" },
+				{ "model": "upper_slab_purpur_0" },
+				{ "model": "upper_slab_purpur_1" },
+				{ "model": "upper_slab_purpur_2" },
+				{ "model": "upper_slab_purpur_3" },
+				{ "model": "upper_slab_purpur_4" },
+				{ "model": "upper_slab_purpur_5" },
+				{ "model": "upper_slab_purpur_6" },
+				{ "model": "upper_slab_purpur_7" } ]
+    }
+}

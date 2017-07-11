@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "axis=z": [ { "model": "portal_ew" },
+			{ "model": "portal_ew_0" },
+			{ "model": "portal_ew_1" },
+			{ "model": "portal_ew_2" } ],
+        "axis=x": [ { "model": "portal_ns" },
+			{ "model": "portal_ns_0" },
+			{ "model": "portal_ns_1" },
+			{ "model": "portal_ns_2" } ]
+    }
+}

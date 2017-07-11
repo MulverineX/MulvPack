@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [ { "model": "oak_leaves", "weight":95 },
+				{ "model": "oak_leaves_0" },
+				{ "model": "oak_leaves_1" },
+				{ "model": "oak_leaves_2" },
+				{ "model": "oak_leaves_3" },
+				{ "model": "oak_leaves_4" },
+				{ "model": "oak_leaves_5" },
+				{ "model": "oak_leaves_6" },
+				{ "model": "oak_leaves_7" },
+				{ "model": "oak_leaves_8" },
+				{ "model": "oak_leaves_9" },
+				{ "model": "oak_leaves_10" },
+				{ "model": "oak_leaves_11" },
+				{ "model": "oak_leaves_12" } ]
+    }
+}
