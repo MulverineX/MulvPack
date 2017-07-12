@@ -1,0 +1,45 @@
+{
+    "buttons":
+    {
+        "cookie":
+        {
+            "text" : "Here's A Cookie",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mulv:buttonB.png",
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "normalTextColor" : 0880000,
+            "hoverTextColor" : 0880000,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "http://i.imgur.com/5tXzQXL.jpg"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "congrats":
+        {
+            "text" : "§dCongrats! You found an easter egg!",
+            "posX" : -90,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "center"
+        }
+    },
+    
+    "other":
+    {
+        "background":
+		{
+			"image" : "mulv:ship.png",
+			"mode" : "fill",
+            "blur" : "true"
+		}
+    }
+}

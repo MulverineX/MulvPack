@@ -1,0 +1,252 @@
+{
+    "images":
+    {
+        "logo":
+        {
+            "image" : "mulv:Logo.png",
+            "posX" : -187,
+            "posY" : 10,
+            "width" : 100,
+            "height" : 100,
+            "alignment" : "top_center"
+        },
+        
+        "title":
+        {
+            "image" : "mulv:mulvpack.png",
+            "posX" : -97,
+            "posY" : 20,
+            "width" : 280,
+            "height" : 80,
+            "alignment" : "top_center"
+        },
+
+        "subtitle":
+        {
+            "image" : "mulv:mpvanilla.png",
+            "posX" : -87,
+            "posY" : 82,
+            "width" : 100,
+            "height" : 20,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mulv:buttonB.png",
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "normalTextColor" : 0880000,
+            "hoverTextColor" : 0880000,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "texture" : "mulv:buttonB.png",
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "normalTextColor" : 0880000,
+            "hoverTextColor" : 0880000,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 98,
+            "height" : 20,
+            "texture" : "mulv:buttonB.png",
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "normalTextColor" : 0880000,
+            "hoverTextColor" : 0880000,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Exit",
+            "posX" : 2,
+            "posY" : 96,
+            "width" : 98,
+            "height" : 20,
+            "texture" : "mulv:buttonB.png",
+            "imageWidth" : 100,
+            "imageHeight" : 50,
+            "normalTextColor" : 0880000,
+            "hoverTextColor" : 0880000,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 120,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mulv:languageA.png",
+            "imageWidth" : 1200,
+            "imageHeight" : 1200,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "discord":
+        {
+            "text" : "",
+            "posX" : 0,
+            "posY" : 120,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mulv:discordA.png",
+            "imageWidth" : 240,
+            "imageHeight" : 240,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/Q7paYmv"
+            }
+         },
+
+         "youtube":
+         {
+            "text" : "",
+            "posX" : 22,
+            "posY" : 120,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mulv:youtubeA.png",
+            "imageWidth" : 1000,
+            "imageHeight" : 1000,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.youtube.com/channel/UCA8q_dcT89efGUUz_eVaHHw"
+            }
+         },
+         
+         "twitter":
+         {
+            "text" : "",
+            "posX" : 42,
+            "posY" : 120,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mulv:twitterA.png",
+            "imageWidth" : 1000,
+            "imageHeight" : 1000,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://twitter.com/MulverineX"
+            }
+         },
+         
+         "homepage":
+         {
+            "text" : "",
+            "posX" : -66,
+            "posY" : 120,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mulv:homepageA.png",
+            "imageWidth" : 512,
+            "imageHeight" : 512,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : ""
+            }
+         },
+         
+         "easteregg":
+         {
+            "text" : "",
+            "posX" : -178,
+            "posY" : 163,
+            "width" : 10,
+            "height" : 10,
+            "texture" : "mulv:easteregg.png",
+            "imageWidth" : 100,
+            "imageHeight" : 100,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.easteregg"
+            }
+         },
+         
+         "mods":
+        {
+            "text" : "",
+            "posX" : -46,
+            "posY" : 120,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "mulv:forgeA.png",
+            "imageWidth" : 360,
+            "imageHeight" : 360,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "other":
+    {
+        "background":
+		{
+			"image" : "mulv:space.png",
+			"mode" : "fill"
+		}
+    }
+}
