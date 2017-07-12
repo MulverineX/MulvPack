@@ -4,6 +4,7 @@ if not exist "%appdata%\Mulvpack\" xcopy /s "%cd%\Mulvpack" "%appdata%\Mulvpack\
 cd ..
 del Install.lnk
 copy %cd%\Files\Done.txt %cd%
+start Done.txt
 cd %appdata%\Mulvpack\
-start /min start.bat
+start /min shortcut.bat
 exit
